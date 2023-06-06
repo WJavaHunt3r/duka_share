@@ -25,3 +25,6 @@ doc/api/
 
 .flutter-plugins
 .flutter-plugins-dependencies
+ios/Flutter/Generated.xcconfig
+.idea/duka_share.iml
+*.properties
